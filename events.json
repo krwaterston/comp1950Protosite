@@ -1,0 +1,20 @@
+{
+  "monthly": [
+    {
+      "id": 1,
+      "name": "Lecture 1",
+      "startdate": "2017-10-31",
+      "enddate": "",
+      "color": "#000",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Lecture 2",
+      "startdate": "2017-11-07",
+      "enddate": "",
+      "color": "#000",
+      "url": ""
+    }
+  ]
+}
